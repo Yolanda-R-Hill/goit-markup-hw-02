@@ -113,6 +113,10 @@ li {
   letter-spacing: 0.02em;
   color: var(--Navy-blue);
 }
+.section-benefits-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
 
 .name {
   font-weight: 600;
